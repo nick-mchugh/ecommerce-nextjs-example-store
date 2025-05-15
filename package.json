@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@snowplow/browser-plugin-element-tracking": "^4.6.1",
     "@snowplow/browser-plugin-performance-navigation-timing": "^4.3.1",
     "@snowplow/browser-plugin-site-tracking": "^4.3.1",
     "@snowplow/browser-plugin-snowplow-ecommerce": "^4.3.1",
